@@ -1,0 +1,16 @@
+Server: nginx
+Date: Thu, 08 May 2025 15:42:35 GMT
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+Vary: accept, content-type, cookie
+X-Hacker: Want root?  Visit join.a8c.com and mention this header.
+Host-Header: WordPress.com
+Link: <https://thesearchfortiki.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://thesearchfortiki.com/wp-json/wp/v2/product/13332>; rel="alternate"; title="JSON"; type="application/json"
+Last-Modified: Thu, 08 May 2025 15:42:35 GMT
+Cache-Control: max-age=300, must-revalidate
+X-Nananana: Batcache-Set
+Content-Encoding: gzip
+X-Ac: 2.mia _atomic_dca MISS
+Alt-Svc: h3=":443"; ma=86400

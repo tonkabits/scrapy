@@ -1,0 +1,10 @@
+Sitemap: https://thesearchfortiki.com/sitemap.xml
+Sitemap: https://thesearchfortiki.com/news-sitemap.xml
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://thesearchfortiki.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

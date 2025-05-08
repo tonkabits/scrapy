@@ -1,0 +1,13 @@
+Server: nginx
+Date: Thu, 08 May 2025 15:19:27 GMT
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=31536000
+X-Hacker: Want root?  Visit join.a8c.com and mention this header.
+Host-Header: WordPress.com
+Vary: accept, content-type, cookie
+Expires: Thu, 08 May 2025 16:19:27 GMT
+Cache-Control: max-age=3600
+X-Redirect-By: WordPress
+Location: https://thesearchfortiki.com/tiki-mugs/
+X-Ac: 2.mia _atomic_dca MISS
+Alt-Svc: h3=":443"; ma=86400
